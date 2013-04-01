@@ -2,6 +2,7 @@
  * backbone-scaffolding
  *
  * @author Nil Gradisnik <nil.gradisnik@gmail.com>
+ * https://github.com/nilgradisnik/backbone-scaffolding
  */
 require.config({
 
